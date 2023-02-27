@@ -1,0 +1,28 @@
+.pow {
+    padding: 30px;
+     background-color: white;
+    border-radius: 10px;
+    box-shadow: 25px 25px 25px rgb(59, 54, 50);
+}
+
+body{
+
+    background-color: #fa7a33;
+
+
+}
+
+.btn{
+    margin: 30px 0;
+    text-align: center;
+    font-size: 16px;
+
+  }
+  .btn a{
+    color: rgb(132, 14, 201);
+    text-decoration: none;
+  }
+  .btn a:hover{
+    text-decoration: underline;
+
+  }
